@@ -17,16 +17,16 @@
     width: 100%;
     top: 0;
     left: 0;
+    transform: translateY(7.5%);
 }
 
 .header-image {
     position: absolute;
-    width: 76.4%;
+    width: 82%;
     top: 0;
     left: 0;
     z-index: 1;
-    transform: translateX(16%);
-
+    transform: translateX(15%);
 }
 
 .blur {
@@ -34,7 +34,7 @@
     width: 100%;
     top: 0;
     left: 0;
-    transform: translateY(-40%);
+    transform: translateY(-35%);
 }
 
 .travel-text {
